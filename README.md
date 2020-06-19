@@ -18,5 +18,7 @@ BME280 is a sensor to read out the current temperature, humidity, pressure
 This script read out the data and write data to a local file and/or to a influx database
 To use the influx functionality you need the influxDBClient
 
+Installation Guide for BOSCH-Sensor bme280:
+https://www.raspberrypi-spy.co.uk/2016/07/using-bme280-i2c-temperature-pressure-sensor-in-python/
 
 
