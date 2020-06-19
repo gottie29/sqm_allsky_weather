@@ -22,3 +22,11 @@ Installation Guide for BOSCH-Sensor bme280:
 https://www.raspberrypi-spy.co.uk/2016/07/using-bme280-i2c-temperature-pressure-sensor-in-python/
 
 
+DHT22 (dht22-11_influx.py)
+---
+DHT22 is a sensor to read out/messure current temperature and humidity
+
+This script read out the data and write data to a local file and/or to a influx database
+To use the influx functionality you need the influxDBClient
+
+
