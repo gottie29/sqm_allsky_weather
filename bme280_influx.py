@@ -12,8 +12,8 @@
 #  Official datasheet available from :
 #  https://www.bosch-sensortec.com/bst/products/all_products/bme280
 #
-#  Author: Stefan Gotthold
-#          gottie29
+#  Author: Stefan Gotthold / Bob Andrews
+#          gottie29 / bobandrews23
 #  Date:   19/06/2020
 #  Version: v001 
 #
