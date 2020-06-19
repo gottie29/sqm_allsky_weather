@@ -9,7 +9,8 @@ This script read out the data and write data to a local file and/or to a influx 
 To use the influx functionality you need the influxDBClient
 
 Installation Guides for InfluxDB:
-https://pimylifeup.com/raspberry-pi-influxdb/
-https://simonhearne.com/2020/pi-influx-grafana/
+
+https://pimylifeup.com/raspberry-pi-influxdb/<br>
+https://simonhearne.com/2020/pi-influx-grafana/<br>
 
 
