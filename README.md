@@ -6,4 +6,10 @@ BME280 (bme280_influx.py)
 BME280 is a sensor to read out the current temperature, humidity, pressure
 
 This script read out the data and write data to a local file and/or to a influx database
+To use the influx functionality you need the influxDBClient
+
+Installation Guides for InfluxDB:
+https://pimylifeup.com/raspberry-pi-influxdb/
+https://simonhearne.com/2020/pi-influx-grafana/
+
 
