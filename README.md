@@ -21,6 +21,7 @@ To use the influx functionality you need the influxDBClient
 Installation Guide for BOSCH-Sensor bme280:
 https://www.raspberrypi-spy.co.uk/2016/07/using-bme280-i2c-temperature-pressure-sensor-in-python/
 
+ATTENTION: For the BME280 you need the i2c interface. Activate this in raspi-config
 
 DHT22 (dht22-11_influx.py)
 ---
