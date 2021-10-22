@@ -34,3 +34,8 @@ PSUTIL (Processor Temp and more) (mypsutil.py)
 To check the processor temperature and other internal values we use the mypsutil.py
 
 Install-Guide: https://www.isendev.com/app/entry/39
+
+Interface for ZWO and HQ cameras
+--------------------------------
+from Thomas Jacquin
+Installation guide: https://github.com/thomasjacquin/allsky
