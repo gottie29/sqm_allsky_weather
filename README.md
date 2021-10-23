@@ -40,3 +40,9 @@ Interface for ZWO and HQ cameras
 --------------------------------
 from Thomas Jacquin
 Installation guide: https://github.com/thomasjacquin/allsky
+
+SQM - Sky Quality Meter
+---
+Installation Guide: http://rdlazaro.info/20-COMPU/80-RASPBERRY_PI/32-unattended_SQM_OLD.html
+
+
