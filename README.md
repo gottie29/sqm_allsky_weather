@@ -4,6 +4,9 @@ A allsky/sqm/weather /sensor station based on python
 We are using an external server with a Influx Database and Grafana for visualiszation.
 To use the DB functionality in our scripts you need a influx installation for raspberry pi
 
+All used 3D-Printing-Files will be logged by Thingiverse
+https://www.thingiverse.com/clearskyblog/designs
+
 Installation Guides for InfluxDB:
 ---
 
